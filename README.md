@@ -1,6 +1,6 @@
 # lambda-package-example-tf
 
-Example AWS Lambda golang package in Terraform.
+Example AWS Lambda Golang package in Terraform.
 
 ## Authors
 
